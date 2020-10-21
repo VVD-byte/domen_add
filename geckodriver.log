@@ -1,0 +1,1075 @@
+1601316062227	geckodriver	INFO	Listening on 127.0.0.1:58293
+1601316553390	geckodriver	INFO	Listening on 127.0.0.1:33477
+1601383890743	geckodriver	INFO	Listening on 127.0.0.1:57013
+1601384084896	geckodriver	INFO	Listening on 127.0.0.1:52549
+1601384296683	geckodriver	INFO	Listening on 127.0.0.1:58867
+1601384751937	geckodriver	INFO	Listening on 127.0.0.1:35841
+1601384751951	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesSbaTr"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601384757599	Marionette	INFO	Listening on port 40967
+1601384757681	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js, line 1: unreachable code after return statement
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1601385399095	geckodriver	INFO	Listening on 127.0.0.1:33911
+1601385399107	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles8Sj8f"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601385402394	Marionette	INFO	Listening on port 34505
+1601385402445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js, line 1: unreachable code after return statement
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601385417938	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601385466808	Marionette	INFO	Stopped listening on port 34505
+1601385996167	geckodriver	INFO	Listening on 127.0.0.1:56625
+1601385996172	geckodriver	INFO	Listening on 127.0.0.1:57461
+1601385996177	geckodriver	INFO	Listening on 127.0.0.1:52797
+1601385996185	geckodriver	INFO	Listening on 127.0.0.1:44333
+1601385996191	geckodriver	INFO	Listening on 127.0.0.1:48661
+1601385996206	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDkqvxY"
+1601385996216	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile07meD5"
+1601385996216	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBz6zVe"
+1601385996218	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ9w3Mz"
+1601385996224	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepgkPi5"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601386006188	Marionette	INFO	Listening on port 37101
+1601386006278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601386006985	Marionette	INFO	Listening on port 46173
+1601386007145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601386007266	Marionette	INFO	Listening on port 36019
+1601386007328	Marionette	INFO	Listening on port 38097
+1601386007337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601386007433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601386007781	Marionette	INFO	Listening on port 39513
+1601386007882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js, line 1: unreachable code after return statement
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js, line 1: unreachable code after return statement
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js, line 1: unreachable code after return statement
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js, line 1: unreachable code after return statement
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js, line 1: unreachable code after return statement
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601386024062	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601386026268	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601386029055	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601386029276	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601386029907	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601395727304	Marionette	INFO	Stopped listening on port 39513
+1601396985444	Marionette	INFO	Stopped listening on port 37101
+1601398766101	geckodriver	INFO	Listening on 127.0.0.1:38901
+1601398766550	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIpX1mn"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601398775771	Marionette	INFO	Listening on port 33757
+1601398775822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js, line 1: unreachable code after return statement
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js, line 1: unreachable code after return statement
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_GLXTEST_FAILED)
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://sso.godaddy.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/f.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1601404132895	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601404144513	Marionette	INFO	Stopped listening on port 38097
+1601406535917	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601406546401	Marionette	INFO	Stopped listening on port 36019
+1601413161871	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601413172321	Marionette	INFO	Stopped listening on port 46173
+1601482016340	geckodriver	INFO	Listening on 127.0.0.1:48779
+1601482016340	geckodriver	INFO	Listening on 127.0.0.1:49645
+1601482016342	geckodriver	INFO	Listening on 127.0.0.1:44029
+1601482017584	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTJBFyS"
+1601482017587	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelf130J"
+1601482017590	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUtzbSY"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601482042537	Marionette	INFO	Listening on port 36457
+1601482042540	Marionette	INFO	Listening on port 46193
+1601482042604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601482042642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601482042710	Marionette	INFO	Listening on port 33665
+1601482042827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601488901479	geckodriver	INFO	Listening on 127.0.0.1:42929
+1601488901479	geckodriver	INFO	Listening on 127.0.0.1:43211
+1601488901479	geckodriver	INFO	Listening on 127.0.0.1:33935
+1601488901656	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO4feeK"
+1601488902439	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD3SUF8"
+1601488902488	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb87TjW"
+Error: no DISPLAY environment variable specified
+Error: no DISPLAY environment variable specified
+Error: no DISPLAY environment variable specified
+1601489444942	geckodriver	INFO	Listening on 127.0.0.1:59077
+1601489444955	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile29Ugz4"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601489452670	Marionette	INFO	Listening on port 33197
+1601489452700	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1601489593906	geckodriver	INFO	Listening on 127.0.0.1:53971
+1601489593911	geckodriver	INFO	Listening on 127.0.0.1:37911
+1601489593922	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5dxab4"
+*** You are running in headless mode.
+1601489594924	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles5cgSq"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601489600843	Marionette	INFO	Listening on port 45405
+1601489600867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601489601672	Marionette	INFO	Listening on port 36693
+1601489601761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601489608875	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601489609151	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: Timed out getting market from utag
+1601489669410	Marionette	INFO	Stopped listening on port 36693
+1601489669460	Marionette	INFO	Stopped listening on port 45405
+1601490276605	geckodriver	INFO	Listening on 127.0.0.1:58787
+1601490276627	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3B3nS3"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601490282005	Marionette	INFO	Listening on port 42243
+1601490282059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601490523950	Marionette	INFO	Stopped listening on port 42243
+1601491204771	geckodriver	INFO	Listening on 127.0.0.1:40739
+1601491204781	geckodriver	INFO	Listening on 127.0.0.1:41549
+1601491204792	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0bTmqs"
+1601491204788	geckodriver	INFO	Listening on 127.0.0.1:52727
+1601491204801	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN1gWXc"
+*** You are running in headless mode.
+*** You are running in headless mode.
+1601491205800	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep0K5aK"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601491211888	Marionette	INFO	Listening on port 45469
+1601491211988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601491211994	Marionette	INFO	Listening on port 32847
+1601491212088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601491213717	Marionette	INFO	Listening on port 39719
+1601491213786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601731171792	geckodriver	INFO	Listening on 127.0.0.1:44445
+1601731172901	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8y0ix6"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601731190534	Marionette	INFO	Listening on port 40975
+1601731190616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+Error reading incoming packet: (out of memory - undefined)
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+JavaScript error: chrome://browser/content/tabbrowser.js, line 1855: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/tabbrowser.js, line 1855: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/tabbrowser.js, line 1855: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/tabbrowser.js, line 1855: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/tabbrowser.js, line 1855: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+1601764232316	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: "out of memory"
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 44: unknown (can't convert to string)
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+1601835377201	geckodriver	INFO	Listening on 127.0.0.1:45643
+1601835378533	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile74Tk1x"
+*** You are running in headless mode.
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+JavaScript error: chrome://browser/content/browser-ctrlTab.js, line 627: TypeError: this.tabList[i].linkedBrowser.currentURI is null
+1601925331894	geckodriver	INFO	Listening on 127.0.0.1:40439
+1601925331894	geckodriver	INFO	Listening on 127.0.0.1:34355
+1601925331894	geckodriver	INFO	Listening on 127.0.0.1:51293
+1601925331894	geckodriver	INFO	Listening on 127.0.0.1:37317
+1601925333605	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIrXO8G"
+1601925333605	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewIeDge"
+1601925333609	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev59qYg"
+1601925333609	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewbAoO8"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601925387314	Marionette	INFO	Listening on port 43033
+1601925387315	Marionette	INFO	Listening on port 33099
+1601925387322	Marionette	INFO	Listening on port 43053
+1601925387375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601925387392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601925387399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601925388215	Marionette	INFO	Listening on port 43893
+1601925388257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601925720978	geckodriver	INFO	Listening on 127.0.0.1:43419
+1601925720981	geckodriver	INFO	Listening on 127.0.0.1:51081
+1601925720987	geckodriver	INFO	Listening on 127.0.0.1:45333
+1601925720993	geckodriver	INFO	Listening on 127.0.0.1:58071
+1601925721004	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePjdJYM"
+1601925721011	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMEoHsq"
+1601925721062	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexHGora"
+1601925721062	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMHY15Q"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601925728992	Marionette	INFO	Listening on port 38301
+1601925729052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601925729997	Marionette	INFO	Listening on port 32845
+1601925730059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601925730564	Marionette	INFO	Listening on port 38795
+1601925730620	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601925731237	Marionette	INFO	Listening on port 33831
+1601925731304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601925923911	geckodriver	INFO	Listening on 127.0.0.1:32933
+1601925923923	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCSoc2d"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601925928858	Marionette	INFO	Listening on port 45797
+1601925928950	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1601928202194	geckodriver	INFO	Listening on 127.0.0.1:58473
+1601928202194	geckodriver	INFO	Listening on 127.0.0.1:53465
+1601928202204	geckodriver	INFO	Listening on 127.0.0.1:52977
+1601928202213	geckodriver	INFO	Listening on 127.0.0.1:43131
+1601928202830	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW6W0Hr"
+1601928202834	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileryToql"
+1601928202836	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerabKmh"
+1601928202840	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyOKRW9"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601928223815	Marionette	INFO	Listening on port 33825
+1601928223869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601928224104	Marionette	INFO	Listening on port 37833
+1601928224175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601928224285	Marionette	INFO	Listening on port 40625
+1601928224408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601928224704	Marionette	INFO	Listening on port 36285
+1601928224762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601928270307	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601928324184	Marionette	INFO	Stopped listening on port 40625
+1601928324637	Marionette	INFO	Stopped listening on port 36285
+1601928646501	Marionette	INFO	Stopped listening on port 37833
+1601928976390	Marionette	INFO	Stopped listening on port 33825
+1601982914136	geckodriver	INFO	Listening on 127.0.0.1:56033
+1601982914136	geckodriver	INFO	Listening on 127.0.0.1:40179
+1601982914136	geckodriver	INFO	Listening on 127.0.0.1:35101
+1601982914137	geckodriver	INFO	Listening on 127.0.0.1:52495
+1601982914138	geckodriver	INFO	Listening on 127.0.0.1:56635
+1601982914137	geckodriver	INFO	Listening on 127.0.0.1:43665
+1601982915161	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile55pvj3"
+1601982915161	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9qXkRh"
+1601982915168	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXwZ00Q"
+1601982915174	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5Bzytx"
+1601982915176	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGKIxy3"
+1601982915177	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGtoccF"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602004311638	geckodriver	INFO	Listening on 127.0.0.1:49617
+1602004312594	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezDCyDG"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602004358117	Marionette	INFO	Listening on port 36365
+1602004358184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Timed out getting market from utag
+1602004449889	Marionette	INFO	Stopped listening on port 36365
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1602167455211	geckodriver	INFO	Listening on 127.0.0.1:45899
+1602167455212	geckodriver	INFO	Listening on 127.0.0.1:58173
+1602167455213	geckodriver	INFO	Listening on 127.0.0.1:40615
+1602167455214	geckodriver	INFO	Listening on 127.0.0.1:36991
+1602167455214	geckodriver	INFO	Listening on 127.0.0.1:59627
+1602167455308	geckodriver	INFO	Listening on 127.0.0.1:46401
+1602167455331	geckodriver	INFO	Listening on 127.0.0.1:41485
+1602167455347	geckodriver	INFO	Listening on 127.0.0.1:46605
+1602167455402	geckodriver	INFO	Listening on 127.0.0.1:43105
+1602167455570	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiGFvIH"
+1602167455590	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFs47DI"
+1602167455591	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuYufWf"
+1602167455591	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW88Tb8"
+1602167455592	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezhkQt4"
+1602167455593	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqIsH0W"
+1602167455607	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev3DO81"
+1602167455607	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRG3zOG"
+1602167456337	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq56Ix2"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602167498683	Marionette	INFO	Listening on port 36175
+1602167498769	Marionette	INFO	Listening on port 35245
+1602167498789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602167498804	Marionette	INFO	Listening on port 34271
+1602167498836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602167498853	Marionette	INFO	Listening on port 33845
+1602167498857	Marionette	INFO	Listening on port 45741
+1602167498902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602167498953	Marionette	INFO	Listening on port 43649
+1602167498994	Marionette	INFO	Listening on port 35837
+1602167499117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602167499122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602167499188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602167499463	Marionette	INFO	Listening on port 40741
+1602167499560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602167499835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602167499968	Marionette	INFO	Listening on port 38421
+1602167500057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Timed out getting market from utag
+JavaScript error: , line 0: uncaught exception: Timed out getting market from utag
+JavaScript error: , line 0: uncaught exception: Timed out getting market from utag
+JavaScript error: , line 0: uncaught exception: Timed out getting market from utag
+JavaScript error: , line 0: uncaught exception: Timed out getting market from utag
+JavaScript error: , line 0: uncaught exception: Timed out getting market from utag
+1602167564374	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602167564945	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602167565248	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602167565420	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602167567656	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602167646609	Marionette	INFO	Stopped listening on port 43649
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602168278813	Marionette	INFO	Stopped listening on port 46193
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602168837207	Marionette	INFO	Stopped listening on port 33665
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602169524540	Marionette	ERROR	[15] No reply from Marionette:Register
+1602169529310	Marionette	INFO	Stopped listening on port 34271
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602170012443	Marionette	ERROR	[15] No reply from Marionette:Register
+1602170014024	Marionette	INFO	Stopped listening on port 33845
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602170571493	Marionette	ERROR	[15] No reply from Marionette:Register
+1602170572801	Marionette	INFO	Stopped listening on port 35837
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602172465705	Marionette	ERROR	[15] No reply from Marionette:Register
+1602172467338	Marionette	INFO	Stopped listening on port 35245
+1602172882420	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602172893425	Marionette	INFO	Stopped listening on port 40741
+1602173236885	Marionette	INFO	Stopped listening on port 45741
+1602173823040	Marionette	INFO	Stopped listening on port 38421
+1602174008322	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602174019197	Marionette	INFO	Stopped listening on port 36175
+1602174359638	geckodriver	INFO	Listening on 127.0.0.1:54677
+1602174360729	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletH2TVz"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602174375976	Marionette	INFO	Listening on port 40719
+1602174376009	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602215727302	Marionette	ERROR	[18] No reply from Marionette:Register
+1602215734101	Marionette	INFO	Stopped listening on port 40719
+1602251374785	geckodriver	INFO	Listening on 127.0.0.1:43299
+1602251374785	geckodriver	INFO	Listening on 127.0.0.1:34161
+1602251376025	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4CTCA1"
+1602251376026	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeWCJ0R"
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602251393028	Marionette	INFO	Listening on port 43439
+1602251393065	Marionette	INFO	Listening on port 35119
+1602251393120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602251393121	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602269713949	Marionette	ERROR	[15] No reply from Marionette:Register
+1602269721259	Marionette	INFO	Stopped listening on port 43439
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602286637354	Marionette	ERROR	[15] No reply from Marionette:Register
+1602286642132	Marionette	INFO	Stopped listening on port 35119
+1602330874961	geckodriver	INFO	Listening on 127.0.0.1:50793
+1602330874962	geckodriver	INFO	Listening on 127.0.0.1:34457
+1602330876095	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekPU944"
+1602330876095	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefrBURe"
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602330908890	Marionette	INFO	Listening on port 41637
+1602330908907	Marionette	INFO	Listening on port 41773
+1602330908942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602330909014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Timed out getting market from utag
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602348804402	Marionette	ERROR	[18] No reply from Marionette:Register
+1602348808932	Marionette	INFO	Stopped listening on port 41637
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602364037813	Marionette	ERROR	[15] No reply from Marionette:Register
+1602364040474	Marionette	INFO	Stopped listening on port 41773
+1602420466013	geckodriver	INFO	Listening on 127.0.0.1:58413
+1602420468333	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqKqERs"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602420496275	Marionette	INFO	Listening on port 37451
+1602420496325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Timed out getting market from utag
+1602440509883	Marionette	INFO	Stopped listening on port 37451
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A0003,name=PHttpBackgroundChannel::Msg_OnStopRequest) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A0001,name=PHttpBackgroundChannel::Msg_OnStartRequest) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A0003,name=PHttpBackgroundChannel::Msg_OnStopRequest) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000F,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+1602765607503	geckodriver	INFO	Listening on 127.0.0.1:57587
+1602765607503	geckodriver	INFO	Listening on 127.0.0.1:49035
+1602765607929	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJn4mmO"
+1602765608588	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHJ1rDK"
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602765630993	Marionette	INFO	Listening on port 45401
+1602765631041	Marionette	INFO	Listening on port 33829
+1602765631103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602765631187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602765674430	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602765674494	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602765739529	Marionette	INFO	Stopped listening on port 45401
+1602765739898	Marionette	INFO	Stopped listening on port 33829
+1602857562971	geckodriver	INFO	Listening on 127.0.0.1:33745
+1602857563032	geckodriver	INFO	Listening on 127.0.0.1:59469
+1602857563174	geckodriver	INFO	Listening on 127.0.0.1:37771
+1602857563517	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyEz7Oa"
+1602857563518	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIsqaxI"
+1602857563523	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0U0Ndm"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602857588663	Marionette	INFO	Listening on port 35323
+1602857588692	Marionette	INFO	Listening on port 45079
+1602857588764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602857588793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602857589243	Marionette	INFO	Listening on port 32827
+1602857589595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Timed out getting market from utag
+JavaScript error: , line 0: uncaught exception: Timed out getting market from utag
+1602864838362	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602864849616	Marionette	INFO	Stopped listening on port 45079
+1602869497694	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602869508839	Marionette	INFO	Stopped listening on port 32827
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602906916940	Marionette	ERROR	[15] No reply from Marionette:Register
+1602906921957	Marionette	INFO	Stopped listening on port 35323
+1603030742407	geckodriver	INFO	Listening on 127.0.0.1:41365
+1603030742408	geckodriver	INFO	Listening on 127.0.0.1:54221
+1603030745064	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletDVPOG"
+1603030745067	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuZpeRJ"
+*** You are running in headless mode.
+*** You are running in headless mode.
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='UTF-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='UTF-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+1603110580929	geckodriver	INFO	Listening on 127.0.0.1:40887
+1603110580929	geckodriver	INFO	Listening on 127.0.0.1:48673
+1603110580930	geckodriver	INFO	Listening on 127.0.0.1:56185
+1603110580930	geckodriver	INFO	Listening on 127.0.0.1:36583
+1603110580930	geckodriver	INFO	Listening on 127.0.0.1:59367
+1603110581742	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenbjNBE"
+1603110581742	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXSIeN5"
+1603110581746	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewxqzdy"
+1603110581751	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIdmM38"
+1603110581768	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZawsrC"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+1603197300367	geckodriver	INFO	Listening on 127.0.0.1:46737
+1603197300369	geckodriver	INFO	Listening on 127.0.0.1:37419
+1603197300370	geckodriver	INFO	Listening on 127.0.0.1:53461
+1603197300370	geckodriver	INFO	Listening on 127.0.0.1:37951
+1603197301711	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO7QPVr"
+1603197301835	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6hfA2C"
+1603197302019	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegHpMYr"
+1603197302021	mozrunner::runner	INFO	Running command: "/opt/firefox/firefox" "--marionette" "--log-level=3" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKJL7hz"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
